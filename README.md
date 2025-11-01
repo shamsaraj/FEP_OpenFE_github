@@ -1,4 +1,4 @@
-This project reproduces a minimal **free energy perturbation (FEP)** workflow for two PIM kinase inhibitors using **OpenFE / OpenMM**, running on CPU-only hardware with reduced sampling.
+This project reproduces a minimal **free energy perturbation (FEP)** workflow for two PIM kinase inhibitors using **OpenFE / OpenMM**
 
 ## System Overview
 - **Protein:** Human PIM1 kinase  
