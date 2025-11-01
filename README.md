@@ -15,7 +15,7 @@ This project reproduces a minimal **free energy perturbation (FEP)** workflow fo
 - **Software:** OpenFE 1.7 + OpenMM 8.2
 - **Protocol:** Minimal RBFE (12 λ per leg, 250 ps prod / 50 ps eq per λ)
 - **Legs:** complex (Protein + Ligand) and solvent (water box)
-- **Runs:** 2 replicates per leg
+- **Runs:** 6 replicates per leg
 - **Temperature:** 300 K **Pressure:** 1 bar **Solvent:** explicit TIP3P
 
 ## Results
