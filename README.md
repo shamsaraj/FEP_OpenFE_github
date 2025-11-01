@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme_text = """# Relative Binding Free Energy (RBFE) — Two-Ligand FEP Example
-
 This project reproduces a minimal **free energy perturbation (FEP)** workflow for two PIM kinase inhibitors using **OpenFE / OpenMM**, running on CPU-only hardware with reduced sampling.
 
 ## System Overview
