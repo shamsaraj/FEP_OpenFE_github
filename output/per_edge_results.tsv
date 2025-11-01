@@ -1,0 +1,13 @@
+leg	ligand_i	ligand_j	DG(i->j) (kcal/mol)	MBAR uncertainty (kcal/mol)
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-24.4	0.2
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-24.4	0.3
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-24.2	0.2
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-24.2	0.3
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-24.4	0.3
+complex	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-23.9	0.2
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.9	0.2
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.8	0.3
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.9	0.2
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.5	0.2
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.6	0.2
+solvent	5DWR_L_PyMOL.pdb	4N70_L_PyMOL.pdb	-22.9	0.2
