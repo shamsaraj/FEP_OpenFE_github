@@ -16,10 +16,10 @@ This project reproduces a minimal **free energy perturbation (FEP)** workflow fo
   → ΔΔG (exp, 8→3) ≈ −1.06 kcal mol⁻¹
 
 ## Simulation Summary
-- **Software:** OpenFE 1.7 + OpenMM 8.2 (CPU)
+- **Software:** OpenFE 1.7 + OpenMM 8.2
 - **Protocol:** Minimal RBFE (12 λ per leg, 250 ps prod / 50 ps eq per λ)
 - **Legs:** complex (Protein + Ligand) and solvent (water box)
-- **Runs:** 6 replicates per leg
+- **Runs:** 2 replicates per leg
 - **Temperature:** 300 K **Pressure:** 1 bar **Solvent:** explicit TIP3P
 
 ## Results
@@ -40,7 +40,8 @@ This project reproduces a minimal **free energy perturbation (FEP)** workflow fo
 
 ## Files
 - `rbfe_python_tutorial_two_ligands.ipynb` — notebook performing setup, run, and analysis  
-- `5DWR_L_PyMOL.pdb`, `4N70_L_PyMOL.pdb` — ligand coordinates  
+- — ligand coordinates
+- — receptor coordinates 
 - `README.md` — this summary
 
 ## References
